@@ -1,10 +1,17 @@
+<<<<<<< Updated upstream
 this is my update file
 <<<<<<< Updated upstream
 this is my first code for demo file
 =======
+=======
+>>>>>>> Stashed changes
 this is my demofil
 second file for client
 
-sece
+second time change
+<<<<<<< Updated upstream
 update on stash file
+>>>>>>> Stashed changes
+=======
+
 >>>>>>> Stashed changes
