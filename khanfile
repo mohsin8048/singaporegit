@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is conflict file
    ====== =
 this is a file for conflict
 >>>>>>> branch1
 this is update on khanfile
+ 
+  =======
+conflict file for khanfile
+>>>>>>> branch1
